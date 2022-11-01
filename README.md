@@ -1,2 +1,60 @@
-# CC
-Cloud Computing repository for the course 2022-2023
+# Cloud Computing: Fundamentos e Infraestructuras - 2022-2023
+Este es el repositorio de prácticas de la asignatura de Cloud Computing: 
+Fundamentos e Infraestructuras.
+
+## Proyecto
+
+Como proyecto para las prácticas de la asignatura, se va a diseñar e implementar
+una red social basada en salas de conversación, algo así como los 
+[Espacios de Twitter](https://help.twitter.com/en/using-twitter/spaces), con la 
+diferencia de que la conversación se realizará mediante texto y no mediante audio.
+Por otra parte, el concepto se basa también en gran medida en la plataforma de 
+comunidades [Discord](https://discord.com/). El proyecto puede verse por tanto 
+como una mezcla de ambas plataformas.
+
+Los usuarios del sistema podrán crear nuevos salas de conversación, de la temática
+que quieran, así como unirse a salas de conversación que hayan creados otros usuarios.
+Los usuarios podrán unirse a tantas salas de conversación como quieran, así como 
+abandonarlas en el momento que deseen. Las salas de conversación podrán estar 
+limitadas a un número máximo de personas.
+
+Los usuarios pueden explorar nuevas salas de conversación a las que unirse, usando
+el explorador (buscador). Un buen ejemplo de la idea puede verse en el explorador 
+de servidores de [Discord](https://discord.com/servers).
+
+Recursos REST:
+- Usuarios
+- Salas de conversación
+- Mensajes
+
+## Hitos
+
+Los hitos para la realización del proyecto son los siguientes:
+
+* [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub]( http://jj.github.io/CC/documentos/proyecto/0.Repositorio). 
+    * Fecha límite de entrega: 2 de noviembre de 2022.
+    * Entrega: [Hito 0](./docs/hito_0/)
+
+* [Hito 1: Concretando y planificando el proyecto](https://jj.github.io/CC/documentos/proyecto/1.Infraestructura).
+    * Fecha límite de entrega: 9 de noviembre de 2022.
+    * Entrega: TBD
+    
+* [Hito 2: Tests](https://jj.github.io/CC/documentos/proyecto/2.Tests).
+    * Fecha límite de entrega: 23 de noviembre de 2022.
+    * Entrega: TBD
+
+* [Hito 3: Creación de un contenedor para pruebas](https://jj.github.io/CC/documentos/proyecto/3.Docker).
+    * Fecha límite de entrega: 7 de diciembre de 2022.
+    * Entrega: TBD
+    
+* [Hito 4: Integración continua](https://jj.github.io/CC/documentos/proyecto/4.CI).
+    * Fecha límite de entrega: 21 de diciembre de 2022.
+    * Entrega: TBD
+
+* [Hito 5: Diseño y test de un microservicio](https://jj.github.io/CC/documentos/proyecto/5.Microservicio).
+    * Fecha límite de entrega: 18 de enero de 2023.
+    * Entrega: TBD
+    
+* [Hito 6: Composición de servicios](https://jj.github.io/CC/documentos/proyecto/6.Compose).
+    * Fecha límite de entrega: 25 de enero de 2023.  
+    * Entrega: TBD
