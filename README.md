@@ -34,7 +34,7 @@ Los hitos para la realización del proyecto son los siguientes:
 
 * [Hito 1: Concretando y planificando el proyecto](https://jj.github.io/CC/documentos/proyecto/1.Infraestructura).
     * Fecha límite de entrega: 9 de noviembre de 2022.
-    * Entrega: TBD
+    * Entrega: [Hito 1](./docs/hito_1/)
     
 * [Hito 2: Tests](https://jj.github.io/CC/documentos/proyecto/2.Tests).
     * Fecha límite de entrega: 23 de noviembre de 2022.
