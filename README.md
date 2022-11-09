@@ -22,10 +22,7 @@ Los usuarios pueden explorar nuevas salas de conversación a las que unirse, usa
 el explorador (buscador). Un buen ejemplo de la idea puede verse en el explorador 
 de servidores de [Discord](https://discord.com/servers).
 
-Recursos REST:
-- Usuarios
-- Salas de conversación
-- Mensajes
+[Recursos REST](docs/hito_1/Entidades_REST.md).
 
 ## Hitos
 
@@ -58,3 +55,11 @@ Los hitos para la realización del proyecto son los siguientes:
 * [Hito 6: Composición de servicios](https://jj.github.io/CC/documentos/proyecto/6.Compose).
     * Fecha límite de entrega: 25 de enero de 2023.  
     * Entrega: TBD
+
+## Glosario
+
+- Hito: en el contexto del proyecto, nos referimos a los [milestones][0] de GitHub. 
+
+
+<!-- Reference-style Links -->
+[0]: [https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones]
