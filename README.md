@@ -38,7 +38,7 @@ Los hitos para la realización del proyecto son los siguientes:
     
 * [Hito 2: Tests](https://jj.github.io/CC/documentos/proyecto/2.Tests).
     * Fecha límite de entrega: 23 de noviembre de 2022.
-    * Entrega: TBD
+    * Entrega: [Hito 2](./docs/hito_2/)
 
 * [Hito 3: Creación de un contenedor para pruebas](https://jj.github.io/CC/documentos/proyecto/3.Docker).
     * Fecha límite de entrega: 7 de diciembre de 2022.
