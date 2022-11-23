@@ -7,22 +7,22 @@ con dichas reglas, y por tanto, con los requisitos del proyecto, dando lugar a
 código útil.
 
 Para cumplir con el hito, se requieren una serie de tareas, las cuales se han
-listado en el issue #7
+listado en el issue https://github.com/AlexRuiz7/CC/issues/7
 
 ## Task runner
 
-Ver issue #8
+Ver issue https://github.com/AlexRuiz7/CC/issues/8
 
 ## Librería de aserciones
 
-Ver issue #9
+Ver issue https://github.com/AlexRuiz7/CC/issues/9
 
 ## Framework de tests
 
-Ver issue #10
+Ver issue https://github.com/AlexRuiz7/CC/issues/10
 
 ## Implementación de tests
 
-No finalizado. Ver issue #12
+No finalizado. Ver issue https://github.com/AlexRuiz7/CC/issues/12
 
 Ver [tests](https://github.com/AlexRuiz7/CC/tree/master/tests).
