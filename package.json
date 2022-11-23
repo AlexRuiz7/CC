@@ -1,0 +1,37 @@
+{
+  "name": "yaman",
+  "version": "1.0.0",
+  "description": "The thread-based social network",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRuiz7/CC.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "twitter",
+    "discord"
+  ],
+  "author": "Alejandro Ruiz Becerra",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AlexRuiz7/CC/issues"
+  },
+  "homepage": "https://github.com/AlexRuiz7/CC#readme",
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
