@@ -1,5 +1,7 @@
 FROM node:18.12.1-alpine as builder
 
+WORKDIR /app
+
 # Install dependencies
 COPY package.json package.json ./
 RUN npm i
@@ -8,4 +10,4 @@ RUN npm i
 COPY . .
 
 # Run tests
-RUN npm test
+ENTRYPOINT ["npm", "test"]
