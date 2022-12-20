@@ -42,7 +42,7 @@ Los hitos para la realización del proyecto son los siguientes:
 
 * [Hito 3: Creación de un contenedor para pruebas](https://jj.github.io/CC/documentos/proyecto/3.Docker).
     * Fecha límite de entrega: 7 de diciembre de 2022.
-    * Entrega: TBD
+    * Entrega: [Hito 3](./docs/hito_3/)
     
 * [Hito 4: Integración continua](https://jj.github.io/CC/documentos/proyecto/4.CI).
     * Fecha límite de entrega: 21 de diciembre de 2022.
