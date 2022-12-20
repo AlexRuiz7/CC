@@ -1,4 +1,4 @@
-# Hito 2: Tests
+# Hito 3: Creación de un contenedor para pruebas
 
 En este hito se tiene como objetivo dockerizar la ejecución de los tests de la 
 aplicación. 
