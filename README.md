@@ -50,7 +50,7 @@ Los hitos para la realización del proyecto son los siguientes:
     
 * [Hito 4: Integración continua](https://jj.github.io/CC/documentos/proyecto/4.CI).
     * Fecha límite de entrega: 21 de diciembre de 2022.
-    * Entrega: TBD
+    * Entrega: [Hito 4](./docs/hito_4/)
 
 * [Hito 5: Diseño y test de un microservicio](https://jj.github.io/CC/documentos/proyecto/5.Microservicio).
     * Fecha límite de entrega: 18 de enero de 2023.
