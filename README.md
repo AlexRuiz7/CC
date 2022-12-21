@@ -2,6 +2,9 @@
 Este es el repositorio de prácticas de la asignatura de Cloud Computing: 
 Fundamentos e Infraestructuras.
 
+![github workflow](https://img.shields.io/badge/License-GNU%20GPL-blue)
+![github workflow](https://github.com/AlexRuiz7/CC/actions/workflows/node.js.yml/badge.svg)
+
 ## Proyecto
 
 Como proyecto para las prácticas de la asignatura, se va a diseñar e implementar
